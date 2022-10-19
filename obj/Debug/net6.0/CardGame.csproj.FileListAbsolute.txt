@@ -1,0 +1,15 @@
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/bin/Debug/net6.0/CardGame
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/bin/Debug/net6.0/CardGame.deps.json
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/bin/Debug/net6.0/CardGame.runtimeconfig.json
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/bin/Debug/net6.0/CardGame.dll
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/bin/Debug/net6.0/CardGame.pdb
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/CardGame.csproj.AssemblyReference.cache
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/CardGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/CardGame.AssemblyInfoInputs.cache
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/CardGame.AssemblyInfo.cs
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/CardGame.csproj.CoreCompileInputs.cache
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/CardGame.dll
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/refint/CardGame.dll
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/CardGame.pdb
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/CardGame.genruntimeconfig.cache
+/home/jamie/schoolwork/compsci/coding/projects/cardGame/CardGame/CardGame/obj/Debug/net6.0/ref/CardGame.dll
